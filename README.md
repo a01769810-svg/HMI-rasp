@@ -26,6 +26,7 @@ HMI-rasp/
     ├── FLUJO_SUBIDA_HMI_REAL.md      ← cómo se edita el VML y se sube al HMI (paso a paso, puertos, fases, errores, recovery)
     ├── FUNCIONAMIENTO_HMI.md         ← qué muestra/hace la pantalla del operador (botones, indicadores, señales, contadores)
     ├── LIBRERIAS_HMI_Y_MODBUS_TCP.md ← librerías para programar el HMI (OTE/Lua/VML) + comunicación Modbus TCP (pymodbus, function codes, driver OTE)
+    ├── MODBUS_TCP_PROFUNDO.md        ← Modbus TCP a fondo: frame, FCs, encoding 32-bit/float, cliente+servidor pymodbus, driver OTE, buenas prácticas, mapa Modbus de la celda
     └── OperatorHMI_RemachadoCell.svg ← maqueta vectorial del diseño de la pantalla del operador
 ```
 
